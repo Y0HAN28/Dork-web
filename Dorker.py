@@ -8,20 +8,6 @@ white="\033[97;1m"
 blue="\033[94;1m"
 
 clear
-sleep 0.5
-printf "\033[1;95m╭──────────•◈•──────────╮\n"
-printf "\033[1;91m      ╦┌┬┐┌─┐┬  ┬┌─┐    \n"
-printf "\033[1;91m      ║ │ ├─┤│  │├─┤    \n"
-printf "\033[1;91m      ╩ ┴ ┴ ┴┴─┘┴┴ ┴    \n"
-sleep 0.5
-printf "\033[1;97m     ╔═╗┬ ┬┌┐ ┌─┐┬─┐    \n"
-printf "\033[1;97m     ║  └┬┘├┴┐├┤ ├┬┘    \n"
-printf "\033[1;97m     ╚═╝ ┴ └─┘└─┘┴└─    \n"
-sleep 0.5
-printf "\033[1;92m       ╔═╗┬─┐┌┬┐┬ ┬     \n"
-printf "\033[1;92m       ╠═╣├┬┘│││└┬┘     \n"
-printf "\033[1;92m       ╩ ╩┴└─┴ ┴ ┴      \n"
-printf "\033[1;95m╰──────────•◈•──────────╯\n"
 echo''
 echo''
 sleep 1
@@ -57,7 +43,7 @@ echo''
 echo''
 sleep 0.5
 echo -e $white "*╔═══════════════❖•ೋ° °ೋ•❖═══════════════╗*"
-echo -e $cyan "   Author:"$magenta"ERR0R ~ "$cyan"Team:"$green"ITALIA "$white"CYBER "$red"ARMY"
+echo -e $cyan "   Author:"$magenta"Mr•Y0HAN "$cyan"Team:"$green"BROTHERHOOD "$white"CYBER "$red"ARMY"
 echo -e $white "*╚═══════════════❖•ೋ° °ೋ•❖═══════════════╝*"
 echo''
 sleep 0.5
